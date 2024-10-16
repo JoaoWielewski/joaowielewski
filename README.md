@@ -5,7 +5,7 @@ I'm a passionate **Backend Developer** with experience in designing scalable API
 
 ---
 
-## 🛠️ Languages and Tools I work with:
+## 🛠️ Languages mainly I work with:
 
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -15,6 +15,8 @@ I'm a passionate **Backend Developer** with experience in designing scalable API
 
 ---
 
-## 🌍 Let's connect!
+## 🌍 Let's connect! 
+
+You can find a lot more about me on my LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorwielewskideassis/)
