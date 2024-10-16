@@ -19,4 +19,4 @@ I'm a passionate **Backend Developer** with experience in designing scalable API
 
 You can find a lot more about me on my LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorwielewskideassis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaowielewski/)
