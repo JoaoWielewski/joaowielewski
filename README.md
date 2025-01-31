@@ -1,7 +1,7 @@
 # Hello there! 👋 
 I'm João Vitor Wielewski de Assis
 
-I'm a passionate **Backend Developer** with experience in designing scalable APIs and architecting secure software solutions. I love building systems that solve real problems and learning new technologies along the way.
+I'm a passionate **Software Engineer** with experience in designing scalable APIs and architecting secure software solutions. I love building systems that solve real problems and learning new technologies along the way.
 
 ---
 
